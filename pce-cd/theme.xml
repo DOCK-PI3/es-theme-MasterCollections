@@ -1,0 +1,54 @@
+<!--
+theme name:		MasterCollection
+Original theme name:		BASE-DEV
+version:		1.0
+author:			DOCK-PI3 
+Creado por el equipo:		MasOS Team
+INFO: Theme base para crear desde cero de una forma facil!
+-->
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../MasterCollection.xml</include>
+
+	<view name="system">
+		<image name="Overlay_System" extra="true">
+			<path>./../assets/systems_H.png</path>
+		</image>	
+	</view>
+	<view name="basic">
+		<image name="Overlay_Basic" extra="true">
+			<path>./../assets/fondos_allsys/Bezel_Amstrad_CPC_Mr_RetroLust.png</path>
+		</image>
+	</view>
+	
+	<view name="detailed">
+		<image name="Overlay_Detailed" extra="true">
+			<path>./../assets/fondos_allsys/Bezel_Amstrad_CPC_Mr_RetroLust.png</path>
+		</image>
+	</view>
+	
+	<view name="video">
+		<image name="Overlay_Detailed" extra="true">
+			<path>./../assets/fondos_allsys/Bezel_Amstrad_CPC_Mr_RetroLust.png</path>
+		</image>	
+	</view>
+
+	<view name="basic, detailed, system, video, grid">
+	
+		<image name="logo">
+			 <path>./logo.png</path> 
+			<pos>0.802 0.01</pos>
+			<maxSize>0.18 0.196</maxSize>
+			<size>0.169 0.185</size>
+			<origin>0 0</origin> 
+		</image>
+			<!-- <text name="md_title">
+			<color>ffffff</color>
+			<pos>0.02 0.179</pos>
+			<fontPath>./assets/SF_Hollywood_Hills.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<zIndex>100</zIndex>
+		</text> -->
+	</view>
+	
+</theme>
