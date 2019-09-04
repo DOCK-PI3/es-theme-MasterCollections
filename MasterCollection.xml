@@ -26,11 +26,11 @@ INFO: Theme base para crear desde cero de una forma facil!
 		<view name="video">
 
 			<video name="md_video">
-				<size>0.68 0.72</size>
-				<maxSize>0.68 0.72</maxSize>
+				<size>0.69 0.91</size>
+				<maxSize>0.69 0.92</maxSize>
 				<origin>0 0</origin>
-				<pos>0.125 0.09</pos>
-				<delay>0.4</delay>
+				<pos>0.122 0.04</pos>
+				<delay>1.5</delay>
 				<showSnapshotNoVideo>false</showSnapshotNoVideo>
 				<showSnapshotDelay>false</showSnapshotDelay>
 				<zIndex>94</zIndex>
@@ -54,11 +54,17 @@ INFO: Theme base para crear desde cero de una forma facil!
 				<size>1 1</size>
 				<origin>0 0</origin>
 				<color>FFFFFF00</color>
-				<logoScale>1.6</logoScale>
+				<logoScale>1.8</logoScale>
 				<logoSize>0.2 0.2</logoSize>
 				<maxLogoCount>3</maxLogoCount>
 				<zIndex>75</zIndex>
 			</carousel>
+			
+				<image name="console" extra="true">
+				<maxSize>0.5 0.5</maxSize>
+				<size>0.42 0.42</size>
+				<pos>0.455 0.365</pos>
+			</image>
 			
 			<text name="systemInfo">
 				<pos>0 0.235</pos>
@@ -99,9 +105,11 @@ INFO: Theme base para crear desde cero de una forma facil!
 		</textlist>
 		
 		<image name="logo">
-			<pos>2 2</pos>
-			<maxSize>0.17 0.075</maxSize>
-			<size>0.16 0.075</size>
+			<pos>0.89 0.032</pos>
+			<maxSize>0.18 0.11</maxSize>
+			<size>0.169 0.105</size>
+			<origin>0 0</origin>
+			<zIndex>97</zIndex>
 		</image>
 			<image name="md_marquee">
 				<origin>0 0</origin>
@@ -140,10 +148,11 @@ INFO: Theme base para crear desde cero de una forma facil!
 		</textlist>
 		
 		<image name="logo">
-			<pos>2 2</pos>
+			<pos>0.89 0.032</pos>
 			<maxSize>0.18 0.11</maxSize>
 			<size>0.169 0.105</size>
 			<origin>0 0</origin>
+			<zIndex>97</zIndex>
 		</image>
 			<image name="md_marquee">
 				<origin>0 0</origin>
@@ -322,9 +331,9 @@ INFO: Theme base para crear desde cero de una forma facil!
 
 </view>	
 		
-<!-- 	<view name="grid">
+	<view name="grid">
 		<image name="background" extra="true">
-			<path>./assets/gamelist_bg_basic-grid.png</path>
+			<path>./assets/fondos_allsys/Bezel_80s_Mr_RetroLust.png</path>
 			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -362,5 +371,5 @@ INFO: Theme base para crear desde cero de una forma facil!
 			<size>0.344 0.344</size>
 			<backgroundColor>ffffff90</backgroundColor>
 		</gridtile>	
-	</view> -->
+	</view>
 	</theme>

@@ -33,14 +33,15 @@ INFO: Theme base para crear desde cero de una forma facil!
 		</image>	
 	</view>
 
-	<view name="system">
+	<view name="basic, detailed, system, video, grid">
 	
 		<image name="logo">
 			<path>./system.png</path>
-			<pos>0.802 0.01</pos>
+			<pos>0.822 0.01</pos>
 			<maxSize>0.18 0.196</maxSize>
 			<size>0.169 0.185</size>
 			<origin>0 0</origin>
+			<!-- <zIndex>97</zIndex> -->
 		</image>
 			<!-- <text name="md_title">
 			<color>ffffff</color>

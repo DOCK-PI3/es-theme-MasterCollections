@@ -13,7 +13,15 @@ INFO: Theme base para crear desde cero de una forma facil!
 	<view name="system">
 		<image name="Overlay_System" extra="true">
 			<path>./../assets/systems_H_1.png</path>
-		</image>	
+		</image>
+	<image name="console" extra="true">
+			<path>./console.png</path>
+		<origin>0 0</origin>
+		<color>FFFFFF</color>
+		<pos>0 0</pos>
+		<size>1 1</size>
+		<zIndex>70</zIndex>
+		</image>			
 	</view>
 	<view name="basic">
 		<image name="Overlay_Basic" extra="true">
@@ -37,7 +45,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 	
 		<image name="logo">
 			<path>./logo.png</path>
-			<pos>0.802 0.01</pos>
+			<pos>0.822 0.01</pos>
 			<maxSize>0.18 0.196</maxSize>
 			<size>0.169 0.185</size>
 			<origin>0 0</origin> 
