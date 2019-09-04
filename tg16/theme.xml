@@ -17,23 +17,23 @@ INFO: Theme base para crear desde cero de una forma facil!
 	</view>
 	<view name="basic">
 		<image name="Overlay_Basic" extra="true">
-			<path>./../assets/fondos_allsys/Bezel_Atari_2600_Night_Mr_RetroLust.png</path>
+			<path>./../assets/fondos_allsys/Bezel_Turbografx_16_Mr_RetroLust.png</path>
 		</image>
 	</view>
 	
 	<view name="detailed">
 		<image name="Overlay_Detailed" extra="true">
-			<path>./../assets/fondos_allsys/Bezel_Atari_2600_Night_Mr_RetroLust.png</path>
+			<path>./../assets/fondos_allsys/Bezel_Turbografx_16_Mr_RetroLust.png</path>
 		</image>
 	</view>
 	
 	<view name="video">
 		<image name="Overlay_Detailed" extra="true">
-			<path>./../assets/fondos_allsys/Bezel_Atari_2600_Night_Mr_RetroLust.png</path>
+			<path>./../assets/fondos_allsys/Bezel_Turbografx_16_Mr_RetroLust.png</path>
 		</image>	
 	</view>
 
-	<view name="basic, detailed, system, video, grid">
+	<view name="system">
 	
 		<image name="logo">
 			<path>./logo.png</path>

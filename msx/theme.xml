@@ -17,23 +17,23 @@ INFO: Theme base para crear desde cero de una forma facil!
 	</view>
 	<view name="basic">
 		<image name="Overlay_Basic" extra="true">
-			<path>./../assets/fondos_allsys/Bezel_3DO_Mr_DOCK-PI3.png</path>
+			<path>./../assets/fondos_allsys/Bezel_Microsoft_MSX_1&2_Mr_RetroLust.png</path>
 		</image>
 	</view>
 	
 	<view name="detailed">
 		<image name="Overlay_Detailed" extra="true">
-			<path>./../assets/fondos_allsys/Bezel_3DO_Mr_DOCK-PI3.png</path>
+			<path>./../assets/fondos_allsys/Bezel_Microsoft_MSX_1&2_Mr_RetroLust.png</path>
 		</image>
 	</view>
 	
 	<view name="video">
 		<image name="Overlay_Detailed" extra="true">
-			<path>./../assets/fondos_allsys/Bezel_3DO_Mr_DOCK-PI3.png</path>
+			<path>./../assets/fondos_allsys/Bezel_Microsoft_MSX_1&2_Mr_RetroLust.png</path>
 		</image>	
 	</view>
 
-	<view name="basic, detailed, system, video, grid">
+	<view name="system">
 	
 		<image name="logo">
 			<path>./logo.png</path>
@@ -42,13 +42,13 @@ INFO: Theme base para crear desde cero de una forma facil!
 			<size>0.169 0.185</size>
 			<origin>0 0</origin>
 		</image>
-			<!-- <text name="md_title">
+			<text name="md_title">
 			<color>ffffff</color>
 			<pos>0.02 0.179</pos>
 			<fontPath>./assets/SF_Hollywood_Hills.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<zIndex>100</zIndex>
-		</text> -->
+		</text>
 	</view>
 	
 </theme>

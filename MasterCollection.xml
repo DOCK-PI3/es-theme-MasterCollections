@@ -26,21 +26,15 @@ INFO: Theme base para crear desde cero de una forma facil!
 		<view name="video">
 
 			<video name="md_video">
-				<size>0.68 0.7</size>
-				<maxSize>0.68 0.7</maxSize>
+				<size>0.68 0.72</size>
+				<maxSize>0.68 0.72</maxSize>
 				<origin>0 0</origin>
-				<pos>0.125 0.088</pos>
+				<pos>0.125 0.09</pos>
 				<delay>0.4</delay>
 				<showSnapshotNoVideo>false</showSnapshotNoVideo>
 				<showSnapshotDelay>false</showSnapshotDelay>
 				<zIndex>94</zIndex>
 			</video>
-<!-- 			<image name="md_marquee">
-				<origin>0 0</origin>
-				<pos>0.445 0.005</pos>
-				<maxSize>0.18 0.11</maxSize>
-				<size>0.179 0.105</size>
-			</image> -->
 		</view>
 	</feature>
 
@@ -90,7 +84,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 		<textlist name="gamelist">
 			<pos>0.25 0.13</pos>
 			<size>0.695 0.6</size>
-			<alignment>center</alignment>
+			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontPath>./assets/XEGASPI.TTF</fontPath>
 			<fontSize>0.04</fontSize>
@@ -104,11 +98,17 @@ INFO: Theme base para crear desde cero de una forma facil!
 			<zIndex>93</zIndex>
 		</textlist>
 		
-<!-- 		<image name="logo">
-			<pos>0.85 0.039</pos>
+		<image name="logo">
+			<pos>2 2</pos>
 			<maxSize>0.17 0.075</maxSize>
 			<size>0.16 0.075</size>
-		</image> -->
+		</image>
+			<image name="md_marquee">
+				<origin>0 0</origin>
+				<pos>2 2</pos>
+				<maxSize>0.18 0.11</maxSize>
+				<size>0.179 0.105</size>
+			</image>
 
 	</view>
 
@@ -139,13 +139,18 @@ INFO: Theme base para crear desde cero de una forma facil!
 			<zIndex>93</zIndex>
 		</textlist>
 		
-<!-- 		<image name="logo">
-			<pos>0.745 0.028</pos>
+		<image name="logo">
+			<pos>2 2</pos>
 			<maxSize>0.18 0.11</maxSize>
 			<size>0.169 0.105</size>
 			<origin>0 0</origin>
-		</image> -->
-		
+		</image>
+			<image name="md_marquee">
+				<origin>0 0</origin>
+				<pos>2 2</pos>
+				<maxSize>0.18 0.11</maxSize>
+				<size>0.179 0.105</size>
+			</image>		
 		
 
 <!--=================  METADATA  ===============================================-->
@@ -308,9 +313,9 @@ INFO: Theme base para crear desde cero de una forma facil!
 		
 <!--=================  BOX ART  ===============================================-->		
 		<image name="md_image">
-			<pos>0.43 0.83</pos>
-			<size>0.2 0.16</size>
-			<maxSize>0.2 0.18</maxSize>
+			<pos>0.43 0.845</pos>
+			<size>0.2 0.15</size>
+			<maxSize>0.2 0.15</maxSize>
 			<origin>0.5 0.5</origin>
 			<zIndex>99</zIndex>
 		</image>

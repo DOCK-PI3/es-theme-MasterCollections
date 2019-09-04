@@ -12,35 +12,35 @@ INFO: Theme base para crear desde cero de una forma facil!
 
 	<view name="system">
 		<image name="Overlay_System" extra="true">
-			<path>./assets/systems_H.png</path>
+			<path>./../assets/systems_H_1.png</path>
 		</image>	
 	</view>
 	<view name="basic">
 		<image name="Overlay_Basic" extra="true">
-			<path>./assets/fondos_allsys/Bezel_3DO_Mr_DOCK-PI3.png</path>
+			<path>./../assets/fondos_allsys/Bezel_90s_Mr_RetroLust.png</path>
 		</image>
 	</view>
 	
 	<view name="detailed">
 		<image name="Overlay_Detailed" extra="true">
-			<path>./assets/fondos_allsys/Bezel_3DO_Mr_DOCK-PI3.png</path>
+			<path>./../assets/fondos_allsys/Bezel_90s_Mr_RetroLust.png</path>
 		</image>
 	</view>
 	
 	<view name="video">
 		<image name="Overlay_Detailed" extra="true">
-			<path>./assets/fondos_allsys/Bezel_3DO_Mr_DOCK-PI3.png</path>
+			<path>./../assets/fondos_allsys/Bezel_90s_Mr_RetroLust.png</path>
 		</image>	
 	</view>
 
-	<view name="basic, detailed, system, video, grid">
+	<view name="system">
 	
 		<image name="logo">
 			<path>./logo.png</path>
-<!-- 			<pos>0.802 0.01</pos>
+			<pos>0.802 0.01</pos>
 			<maxSize>0.18 0.196</maxSize>
 			<size>0.169 0.185</size>
-			<origin>0 0</origin> -->
+			<origin>0 0</origin> 
 		</image>
 			<text name="md_title">
 			<color>ffffff</color>
