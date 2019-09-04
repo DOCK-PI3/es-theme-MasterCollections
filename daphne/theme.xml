@@ -33,7 +33,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 		</image>	
 	</view>
 
-	<view name="basic, detailed, system, video, grid">
+	<view name="system">
 	
 		<image name="logo">
 			 <path>./logo.png</path> 
