@@ -18,7 +18,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 			<path>./console.png</path>
 		<origin>0 0</origin>
 		<color>FFFFFF</color>
-		<pos>0 0</pos>
+		<pos>0.15 0.1</pos>
 		<size>0.8 0.8</size>
 		<zIndex>70</zIndex>
 		</image>		
