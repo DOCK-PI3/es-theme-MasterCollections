@@ -60,7 +60,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 				<zIndex>75</zIndex>
 			</carousel>
 			
-				<image name="console" extra="true">
+			<image name="console" extra="true">
 				<maxSize>0.5 0.5</maxSize>
 				<size>0.42 0.42</size>
 				<pos>0.455 0.365</pos>
@@ -100,7 +100,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 			<secondaryColor>c0c0c0</secondaryColor>
 			<forceUppercase>0</forceUppercase>
 			<lineSpacing>1.4</lineSpacing>
-			<scrollSound>./assets/COIN_3.wav</scrollSound>
+			<scrollSound>./assets/RANDOM_10.wav</scrollSound>
 			<zIndex>93</zIndex>
 		</textlist>
 		
@@ -143,7 +143,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 			<secondaryColor>c0c0c0</secondaryColor>
 			<forceUppercase>0</forceUppercase>
 			<lineSpacing>1.4</lineSpacing>
-			<scrollSound>./assets/COIN_3.wav</scrollSound>
+			<scrollSound>./assets/RANDOM_10.wav</scrollSound>
 			<zIndex>93</zIndex>
 		</textlist>
 		
